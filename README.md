@@ -1,7 +1,6 @@
 # Ad-Hoc-Insights
 
-[Link to presentation](https://www.youtube.com/watch?v=YajS4_zfnUQ)
-![3](https://github.com/ankitpant97/Ad-Hoc-Insights/assets/152053095/2e310a21-4a35-4e55-b1fa-0e266916f1ab)
+
 
 
 Domain : Consumer Goods
